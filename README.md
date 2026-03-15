@@ -13,7 +13,7 @@
 - 🎓 Studying **Software Engineering & Information Systems** at ISSAT Sousse
 - 💻 Passionate about **web development**, **cybersecurity**, and **software engineering**
 - 🌍 Goal: **Master's degree in Germany** in CS / Cybersecurity
-- 🌱 Currently improving: **PHP, SQL, JavaScript**
+- 🌱 Currently improving:  SQL, C ,python
 - 🗣️ Languages: Arabic 🇹🇳 | French 🇫🇷 | English 🇬🇧
 
 ---
