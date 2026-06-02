@@ -25,7 +25,7 @@ I'm a first-year Computer Science student specializing in Software Engineering &
 | Project | Description | Stack |
 |---|---|---|
 | [Ecommerce Analysis with Pandas](https://github.com/iyedferjeoui/Ecommerce-Analysis-with-Pandas) | EDA on e-commerce sales data — trends, product performance, customer behavior | Python, Pandas, Matplotlib |
-| [Student Management System](https://github.com/iyedferjeoui/SystemeGestionEtudiants) | Relational DB system for managing student records and grades | SQL, Database Design |
+| [Student Management System](https://github.com/iyedferjeoui/SystemeGestionEtudiants) | C programming  | C,logical thinking,data structre |
 | [Portfolio](https://github.com/iyedferjeoui/portfolio) | Personal portfolio website built from scratch | HTML, CSS, JavaScript |
 
 ---
@@ -42,4 +42,4 @@ I'm a first-year Computer Science student specializing in Software Engineering &
 
 - Portfolio: [iyedferjeoui.github.io/portfolio](https://iyedferjeoui.github.io/portfolio/)
 - LinkedIn: [linkedin.com/in/iyed-ferjeoui](https://www.linkedin.com/in/iyed-ferjeoui-80245a33b/)
-- Email: iyedferjeoui8@gmail.com
+- Email: iyedferjeoui6@gmail.com
