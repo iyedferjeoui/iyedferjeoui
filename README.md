@@ -1,38 +1,45 @@
-<h1 align="center">Hi 👋, I'm Iyed Ferjeoui</h1>
-<h3 align="center">Computer Science Student | Software Engineering | Tunisia 🇹🇳</h3>
+# Hi, I'm Iyed Ferjeoui 👋
 
-<p align="center">
-  <a href="mailto:your.email@gmail.com">📧 Email</a> •
-  <a href="https://iyedferjeoui.github.io/portfolio">🌐 Portfolio</a>
-</p>
+**CS Student @ ISSAT Sousse** | Aspiring Data Analyst | Tunisia
+
+I'm a first-year Computer Science student specializing in Software Engineering & Information Systems. I learn by building — every project here is something I actually coded and analyzed from scratch.
 
 ---
 
-### 👨‍💻 About Me
+## 🛠️ What I work with
 
-- 🎓 Studying **Software Engineering & Information Systems** at ISSAT Sousse
-- 💻 Passionate about **web development**, **cybersecurity**, and **software engineering**
-- 🌱 Currently improving:  SQL, C ,python
-- 🗣️ Languages: Arabic 🇹🇳 | French 🇫🇷 | English 🇬🇧
+**Data & Analysis**
+- Python · Pandas · NumPy · Matplotlib
+- SQL (relational databases, schema design, queries)
+- Power BI *(learning)*
 
----
-
-### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Software & Dev**
+- C / C++ · HTML / CSS / JavaScript · PHP
+- Git & GitHub · Linux / OS fundamentals
+- Algorithms & Data Structures
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Featured projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iyedferjeoui&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyedferjeoui&layout=compact&theme=tokyonight" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [Ecommerce Analysis with Pandas](https://github.com/iyedferjeoui/Ecommerce-Analysis-with-Pandas) | EDA on e-commerce sales data — trends, product performance, customer behavior | Python, Pandas, Matplotlib |
+| [Student Management System](https://github.com/iyedferjeoui/SystemeGestionEtudiants) | Relational DB system for managing student records and grades | SQL, Database Design |
+| [Portfolio](https://github.com/iyedferjeoui/portfolio) | Personal portfolio website built from scratch | HTML, CSS, JavaScript |
+
+---
+
+## 🎓 Education
+
+- **ISSAT Sousse** — Licence Génie Logiciel & SI *(2024 – 2027)*
+- Baccalauréat: **15.93 / 20**
+- freeCodeCamp — self-directed learning in web development & Python
+
+---
+
+## 📫 Contact
+
+- Portfolio: [iyedferjeoui.github.io/portfolio](https://iyedferjeoui.github.io/portfolio/)
+- LinkedIn: [linkedin.com/in/iyed-ferjeoui](https://www.linkedin.com/in/iyed-ferjeoui-80245a33b/)
+- Email: iyedferjeoui8@gmail.com
